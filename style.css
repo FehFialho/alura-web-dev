@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-    --main-color:#22D4FD;
-    --sec-color:#F6F6F6;
-    --terc-color:black;
+    --main-color:#C63C51;
+    --sec-color:#d9a259;
+    --terc-color: #522258;
 
     --sec-font:'Krona One', sans-serif;
     --main-font: 'Montserrat', sans-serif;
@@ -74,7 +74,7 @@ header{
 
 .presentation__desc {
     font-family: var(--main-font);
-    font-weight: 250;
+    font-weight: 370;
     color: var(--sec-color);
     font-size: 1.1rem;
 }
@@ -128,7 +128,7 @@ header{
 
 .linker:hover{
     color: var(--main-color);
-    background-color: rgb(27, 27, 27);
+    background-color: #74326a;
 }
 
 .linker__img {
